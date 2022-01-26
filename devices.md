@@ -8,7 +8,7 @@
 -  Lenovo Z6 Pro (zippo)
 
 ## <p align="center"> POCO/Xiaomi <p/>
--  POCO F1 (beryllium)
+-  [POCO F1 (beryllium)](/devices/beryllium.md)
 -  [POCO M2 Pro, Redmi Note 9S/Pro/Pro Max (miatoll)](/devices/miatoll.md)
 -  Poco X3 Pro (bhima/vayu)
 -  Redmi K20 (davinci)
