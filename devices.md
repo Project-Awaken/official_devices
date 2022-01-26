@@ -9,7 +9,7 @@
 
 ## <p align="center"> POCO/Xiaomi <p/>
 -  POCO F1 (beryllium)
--  POCO M2 Pro, Redmi Note 9S/Pro/Pro Max (miatoll)
+-  [POCO M2 Pro, Redmi Note 9S/Pro/Pro Max (miatoll)](/devices/miatoll.md)
 -  Poco X3 Pro (bhima/vayu)
 -  Redmi K20 (davinci)
 -  Redmi K20 Pro (raphael)
