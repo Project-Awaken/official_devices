@@ -5,7 +5,7 @@
 -  Asus Zenfone Max Pro M2 (X01BD)
 
 ## <p align="center"> Lenovo <p/>
--  Lenovo Z6 Pro (zippo)
+-  [Lenovo Z6 Pro (zippo)](/devices/zippo.md)
 
 ## <p align="center"> POCO/Xiaomi <p/>
 -  [POCO F1 (beryllium)](/devices/beryllium.md)
