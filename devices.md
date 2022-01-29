@@ -23,5 +23,5 @@
 ## <p align="center"> Realme <p/>
 -  Realme 2 Pro (r2p)
 -  Realme 3 Pro (RMX1851)
--  Realme XT (RMX1921)
+-  [Realme XT (RMX1921)](/devices/RMX1921.md)
 -  Realme X2 (RMX199X)
