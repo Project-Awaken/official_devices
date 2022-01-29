@@ -25,3 +25,4 @@
 -  Realme 3 Pro (RMX1851)
 -  [Realme XT (RMX1921)](/devices/RMX1921.md)
 -  Realme X2 (RMX199X)
+-  [Realme 5/5i/5s Unified (RMX1911/1925/2030)](/devices/r5x.md)
