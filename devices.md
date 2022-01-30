@@ -15,7 +15,7 @@
 -  [Redmi K20 Pro (raphael)](/devices/raphael.md)
 -  [Redmi Note 7 Pro (violet)](/devices/violet.md)
 -  [Redmi Note 8/8T (ginkgo/willow)](/devices/ginkgo.md)
--  Redmi Note 10 pro/pro max (sweet)
+-  [Redmi Note 10 pro/pro max (sweet)](/devices/sweet.md)
 -  Xiaomi Mi A2 (jasmine_sprout)
 -  Xiaomi Mi 6X (wayne)
 -  Xiaomi Mi 9 (cepheus)
