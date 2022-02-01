@@ -1,7 +1,7 @@
 # Officially supported devices
 
 ## <p align="center"> ASUS <p/>
--  Asus Zenfone 5Z (Z01R)
+-  [Asus Zenfone 5Z (Z01R)](/devices/Z01R.md)
 -  Asus Zenfone Max Pro M2 (X01BD)
 
 ## <p align="center"> Lenovo <p/>
