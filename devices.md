@@ -18,7 +18,7 @@
 -  [Redmi Note 10 pro/pro max (sweet)](/devices/sweet.md)
 -  Xiaomi Mi A2 (jasmine_sprout)
 -  Xiaomi Mi 6X (wayne)
--  Xiaomi Mi 9 (cepheus)
+-  [Xiaomi Mi 9 (cepheus)](/devices/cepheus.md)
 
 ## <p align="center"> Realme <p/>
 -  Realme 2 Pro (r2p)
