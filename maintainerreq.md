@@ -6,16 +6,22 @@
 
 2. You must have basic git (cherry-pick, squash, etc) knowledge.
 
-3. You must have a daily drivable **unofficial build released 2 weeks** before applying for official.
+3. Your trees should be **clean** and should have **proper authorships** and commit names.
 
-4. Kernel tree **MUST** be open source for us.
+4. Your device sources **MUST** be open source for us.
 
 5. You **MUST** be on SELinux enforcing.
 
-6.  Prebuilt kernels are only allowed **if your device does not have proper kernel sources**., You **MUSTN'T** ship a prebuilt kernel if you have working kernel sources available just because you save 5 minutes of build time.
+6. Prebuilt kernels are only allowed **if your device does not have proper kernel sources**., You **MUSTN'T** ship a prebuilt kernel if you have working kernel sources available just because you save 5 minutes of build time.
 
-7. Device Trees must be open source with proper commit history, this can be exempted in special causes such as proprietary code/prebuilts or the usage of private intellectual property provided you can provide me a proper reason for doing so. This exemption is not permanent, where you would be provided a window of up to 3 months at max depending on the issue.
+7. You should have some basic knowledge of reading logcats and managing most device releated errors/bugs.
 
-8. You **MUST** meet all requirements as mentioned [here](requirements.md).
+8. You must not maintain more than 3 ROMs including Awaken OS (applies for both official and unofficial) and also XDA threads are recommended but not mandatory.
+
+9. You should release an unofficial build and **MUST** attach a link in the maintainership form.
+
+10. You **MUST** meet all requirements as mentioned [here](requirements.md).
 
 If all is well, you may apply [here](https://github.com/Project-Awaken/official_devices/issues/new/choose)
+
+If you have any doubts/questions, make sure to contact the team on [Our Telegram Group](https://telegram.me/AwakenOSChat)
