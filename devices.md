@@ -13,6 +13,7 @@
 -  [Poco X3 Pro (bhima/vayu)](/devices/vayu.md)
 -  Redmi K20 (davinci)
 -  [Redmi K20 Pro (raphael)](/devices/raphael.md)
+-  [Redmi Note 7 (lavender)](/devices/lavender.md)
 -  [Redmi Note 7 Pro (violet)](/devices/violet.md)
 -  [Redmi Note 8/8T (ginkgo/willow)](/devices/ginkgo.md)
 -  [Redmi Note 10 pro/pro max (sweet)](/devices/sweet.md)
