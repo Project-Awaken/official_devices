@@ -1,0 +1,112 @@
+[IMG]https://i.imgur.com/BIqWutQ.png[/IMG]
+[CENTER][SIZE=5][B][COLOR=#3D8AFF]Awaken OS for Device_Name [codename][/COLOR][/B][/SIZE]
+
+[CODE]#include <std_disclaimer.h>
+/*
+* Your warranty is void. Or...Valid? Probably?
+*
+* Project Awaken and its maintainers are not responsible for bricked devices,
+* dead SD cards, data loss, thermonuclear war, or economic crisis caused by
+* Awaken OS. YOU are choosing to make these modifications, and if you
+* point your finger at me for messing up your device, I will laugh at you.
+*/[/CODE]
+
+[IMG]https://i.imgur.com/3iH8AJV.png[/IMG]
+[SIZE=5][COLOR=#3D8AFF][B]Born different, now awaken.[/B][/COLOR][/SIZE]
+[SIZE=3][B]Awaken OS[/B] brings consistent, fluent and smooth experience with all your must-have customizations, for you, for the community, for everyone.[/SIZE]
+
+[B][B][COLOR=#3D8AFF]- Project Awaken Team - [/COLOR][/B]
+[URL='https://github.com/saikiran2001'][COLOR=#FFFFFF]Saikiran[/URL] [Founder & Lead Developer][/COLOR]
+[URL='https://github.com/PainKiller3'][COLOR=#FFFFFF]Ninad Patil[/URL] [Lead Developer][/COLOR]
+[URL='https://github.com/mukul2259'][COLOR=#FFFFFF]Mukul[/URL] [Developer][/COLOR]
+[URL='https://github.com/hugwalk'][COLOR=#FFFFFF]Hugwalk[/URL] [Lead Designer][/COLOR]
+[URL='https://github.com/Graphix-Designer'][COLOR=#FFFFFF]Jagadish[/URL] [Designer][/COLOR]
+[URL='https://github.com/humanglitch191'][COLOR=#FFFFFF]Glitch[/URL] [Designer][/COLOR]
+
+[I]Find us on Telegram! [URL='https://t.me/AwakenOSNews']@AwakenOSNews[/URL][/I][/B]
+
+[IMG]https://i.imgur.com/Tph095T.png[/IMG]
+[B][SIZE=5][U][I][COLOR=#3D8AFF][B]Display[/B][/COLOR][/I][/U][/SIZE]
+Ambient edge lighthing
+Fonts, Icon shape & Icon pack customizations
+Force full screen app & hide app from launcher
+Kdragon Monet
+Monet customizations[/B]
+
+[B][SIZE=5][U][I][COLOR=#3D8AFF][B]Gestures[/B][/COLOR][/I][/U][/SIZE]
+Advance reboot menu
+Double tap to sleep and wake
+Navbar customizations
+Playback control
+Three finger screenshot
+Toggle torch when screen off
+Volume button wake and cursor control[/B]
+
+[B][SIZE=5][U][I][COLOR=#3D8AFF][B]Lockscreen[/B][/COLOR][/I][/U][/SIZE]
+Charging info
+Media art & blur
+Pulse visualizer[/B]
+
+[B][SIZE=5][U][I][COLOR=#3D8AFF][B]Notification[/B][/COLOR][/I][/U][/SIZE]
+Headsup Customizations
+Saner Headsup[/B]
+
+[B][SIZE=5][U][I][COLOR=#3D8AFF][B]Pixel Features[/B][/COLOR][/I][/U][/SIZE]
+Columbus (Quick Tap)
+Game Dashboard
+Smartspace[/B]
+
+[B][SIZE=5][U][I][COLOR=#3D8AFF][B]Quick Settings[/B][/COLOR][/I][/U][/SIZE]
+Brightness slider customizations
+Internet speed meter
+Quick QS pull down[/B]
+
+[B][SIZE=5][U][I][COLOR=#3D8AFF][B]Security[/B][/COLOR][/I][/U][/SIZE]
+Applock
+Disable qs pulldown on secure lockscreen
+Face unlock
+Hide power menu on lockscreen
+Scramble pin layout and quick unlock
+Secure qs tiles on lockscreen[/B]
+
+[B][SIZE=5][U][I][COLOR=#3D8AFF][B]Sounds[/B][/COLOR][/I][/U][/SIZE]
+Custom ringtone vibration pattern
+Cycle through ringer modes
+Increasing ring volume
+In-call vibration
+Link ring and notification volumes
+Per app volume
+Ringtone focus mode
+Smart pause[/B]
+
+[B][SIZE=5][U][I][COLOR=#3D8AFF][B]Statusbar[/B][/COLOR][/I][/U][/SIZE]
+Battery styles
+Clock customizations
+Combined signal & 4G instead of LTE toggle
+Mic, Camera & Location indicator toggle
+Small mobile type icon[/B]
+
+[IMG]https://i.imgur.com/1XvkK8J.png[/IMG]
+[B]You tell[/B]
+
+[IMG]https://i.imgur.com/SiChjTP.png[/IMG]
+[SIZE=5][B][COLOR=#3D8AFF]First Time Install / Clean Flash[/COLOR][/B][/SIZE]
+1. Download the proper flashable ZIP for your device
+2. Reboot to Recovery
+3. Wipe Cache / Data / System
+4. Flash ROM
+5. Flash Gapps (optional)
+6. Flash Magisk (optional)
+7. Reboot to System and [COLOR=#3D8AFF]#beAwakened[/COLOR]
+
+[SIZE=5][B][COLOR=#3D8AFF]Update / Dirty Flash[/COLOR][/B][/SIZE]
+1. Download the proper flashable ZIP for your device
+2. Reboot to Recovery
+3. Flash ROM
+4. Wipe Cache
+5. Reboot to System and [COLOR=#3D8AFF]#beAwakened[/COLOR]
+
+[URL='https://sourceforge.net/projects/project-awaken/files/devicename/'][IMG]https://i.imgur.com/gFGfMNo.png[/IMG][/URL]
+
+[SIZE=1][B][URL='https://sourceforge.net/projects/project-awaken/files/devicename/']Download Here[/URL] / [URL='https://t.me/AwakenOSNews']Official Announcement[/URL] / [URL='https://t.me/AwakenOSChat']Official Community[/URL][/B][/SIZE]
+[SIZE=1][B][URL='https://github.com/']Kernel Source[/URL] / [URL='https://github.com/Project-Awaken/android_manifest']Source Code[/URL][/B][/SIZE][/CENTER]
