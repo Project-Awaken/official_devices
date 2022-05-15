@@ -2,7 +2,7 @@
 
 ## <p align="center"> ASUS <p/>
 -  [Asus Zenfone 5Z (Z01R)](/devices/Z01R.md)
--  Asus Zenfone Max Pro M2 (X01BD)
+-  [Asus Zenfone Max Pro M2 (X01BD)](/devices/X01BD.md)
 
 ## <p align="center"> Lenovo <p/>
 -  [Lenovo Z6 Pro (zippo)](/devices/zippo.md)
