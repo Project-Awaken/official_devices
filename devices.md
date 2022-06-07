@@ -7,6 +7,9 @@
 ## <p align="center"> Lenovo <p/>
 -  [Lenovo Z6 Pro (zippo)](/devices/zippo.md)
 
+## <p align="center"> Nokia <p/>
+- [Nokia 6.1 Plus/X6 (drg)](/devices/drg.md)
+
 ## <p align="center"> POCO/Xiaomi <p/>
 -  [POCO F1 (beryllium)](/devices/beryllium.md)
 -  [POCO M2 Pro, Redmi Note 9S/Pro/Pro Max (miatoll)](/devices/miatoll.md)
