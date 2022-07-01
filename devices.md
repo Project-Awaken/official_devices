@@ -31,3 +31,6 @@
 -  [Realme 3 Pro (RMX1851)](/devices/RMX1851.md)
 -  [Realme XT (RMX1921)](/devices/RMX1921.md)
 -  Realme X2 (RMX199X)
+
+## <p align="center"> OnePlus <p/>
+- [OnePlus 9R (lemonades)](/devices/lemonades.md)
