@@ -10,6 +10,9 @@
 ## <p align="center"> Nokia <p/>
 - [Nokia 6.1 Plus/X6 (drg)](/devices/drg.md)
 
+## <p align="center"> OnePlus <p/>
+- [OnePlus 9R (lemonades)](/devices/lemonades.md)
+
 ## <p align="center"> POCO/Xiaomi <p/>
 -  [POCO F1 (beryllium)](/devices/beryllium.md)
 -  [POCO M2 Pro, Redmi Note 9S/Pro/Pro Max (miatoll)](/devices/miatoll.md)
