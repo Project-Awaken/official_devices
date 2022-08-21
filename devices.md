@@ -18,7 +18,7 @@
 -  [POCO M2 Pro, Redmi Note 9S/Pro/Pro Max (miatoll)](/devices/miatoll.md)
 -  [Poco X3 NFC (surya/karna)](/devices/surya.md)
 -  [Poco X3 Pro (bhima/vayu)](/devices/vayu.md)
--  Redmi K20 (davinci)
+-  [Redmi K20 (davinci)](/devices/davinci.md)
 -  [Redmi K20 Pro (raphael)](/devices/raphael.md)
 -  [Redmi Note 5 Global/Pro (whyred)](/devices/whyred.md)
 -  [Redmi Note 7 (lavender)](/devices/lavender.md)
