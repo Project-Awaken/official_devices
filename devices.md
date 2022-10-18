@@ -14,6 +14,7 @@
 -  [Redmi K20 (davinci)](/devices/davinci.md)
 -  [Redmi K20 Pro (raphael)](/devices/raphael.md)
 -  [Xiaomi Mi 9 (cepheus)](/devices/cepheus.md)
+-  [Xiaomi 11 Lite 5G NE (lisa)](/devices/lisa.md)
 
 ## <p align="center"> realme <p/>
 - [realme GT Master Edition (RMX3360/RMX3363)](/devices/RMX3360.md)
