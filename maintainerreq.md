@@ -20,7 +20,9 @@
 
 9. You should release an unofficial build and **MUST** attach a link in the maintainership form.
 
-10. You **MUST** meet all requirements as mentioned [here](requirements.md).
+10. You **MUST** not ship OEM apps in trees.
+ 
+11. You **MUST** meet all requirements as mentioned [here](requirements.md).
 
 If all is well, you may apply [here](https://github.com/Project-Awaken/official_devices/issues/new/choose)
 
