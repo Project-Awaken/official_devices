@@ -1,6 +1,6 @@
-# realme GT Master Edition (RMX3360/RMX3363)
+# realme GT Master Edition (lunaa)
 
-![RMX3360](/images/RMX3360.png)
+![lunaa](/images/lunaa.png)
 
 ## <p align="center"> Released </p>
 - realme GT Master Edition: July 30, 2021
@@ -26,4 +26,4 @@ Battery		| Non-removable Li-Po 4300 mAh
 ## <p align="center"> AwakenOS info </p>
 * **Maintainer:**	  [KKShedge](https://github.com/KrishnakantShedge)
 * **Supported versions:** Android 13
-* [Downloads](https://sourceforge.net/projects/project-awaken/files/RMX3360/)
+* [Downloads](https://sourceforge.net/projects/project-awaken/files/lunaa/)
