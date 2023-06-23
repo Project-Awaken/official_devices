@@ -1,0 +1,31 @@
+{
+  "maintainer": [
+    {
+      "name": "Sven",
+      "socials": {
+        "telegram": "tribual",
+        "github": "tribual"
+      }
+    }
+  ],
+  "active": true,
+  "android_version": 13,
+  "available_versions": [13],
+  "release": "monthly",
+  "device_display_name": "Xiaomi Mi 9",
+  "device_display_codename": "cepheus",
+  "device_telegram_group": "tribual_mi9",
+  "public_download": "https://www.pling.com/p/1422701/",
+  "response": [
+    {
+      "datetime": 1682841493,
+      "size": 2024810016,
+      "filehash": "dbf955c5bd7b43a6cf40cd9f5ee012cd",
+      "filename": "awaken-3.6-triton_void-cepheus-official-0919-20230501.zip",
+      "id": "272e53421fd3fce651e77ae0c9bd4a636d6f35e81c4987d9ff545254c1eeca3f",
+      "romtype": "official",
+      "version": "3.6",
+      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/awaken-3.6-triton_void-cepheus-official-0919-20230501.zip/download"
+    }
+  ]
+}

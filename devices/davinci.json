@@ -1,0 +1,32 @@
+{
+  "maintainer": [
+    {
+      "name": "Aditya Singh",
+      "socials": {
+        "telegram": "Ad1tyaS1ngh",
+        "github": "Ad1tyaS1ngh",
+        "xda": "ad1tyas1ngh.11053817"
+      }
+    }
+  ],
+  "active": true,
+  "android_version": 13,
+  "available_versions": [13],
+  "release": "monthly",
+  "device_display_name": "Redmi K20",
+  "device_display_codename": "davinci",
+  "device_telegram_group": "randomcbt",
+  "public_download": "https://www.pling.com/p/1422701/",
+  "response": [
+    {
+      "datetime": 1688963689,
+      "size": 2176050818,
+      "filehash": "a9fb78121cbefee8dd4626d94e48e028",
+      "filename": "awaken-3.8-triton_void-davinci-official-0435-20230710.zip",
+      "id": "8e76a5e4d8bb4f36b8094200099ef7e2b0396ae8d8cb44627e9051dc80fd8318",
+      "romtype": "official",
+      "version": "3.8",
+      "url": "https://sourceforge.net/projects/project-awaken/files/davinci/awaken-3.8-triton_void-davinci-official-0435-20230710.zip/download"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "team": [
+    {
+      "name": "Saikiran",
+      "role": "Founder & Lead Developer",
+      "socials": {
+        "github": "saikiran2001",
+        "telegram": "Saikiran008",
+        "xda": "saikiran001.8222620"
+      }
+    },
+    {
+      "name": "Ninad Patil",
+      "role": "Lead Developer",
+      "socials": {
+        "github": "PainKiller3",
+        "telegram": "Reignz3",
+        "xda": "reignz3.6549853"
+      }
+    },
+    {
+      "name": "Wenlin Shen",
+      "role": "Lead Designer",
+      "socials": {
+        "github": "hugwalk"
+      }
+    },
+    {
+      "name": "Jagadish",
+      "role": "Designer",
+      "socials": {
+        "github": "Graphix-Designer"
+      }
+    },
+    {
+      "name": "Saurabh Charde",
+      "role": "Web Developer",
+      "socials": {
+        "github": "schardev",
+        "telegram": "saurabhcharde"
+      }
+    },
+    {
+      "name": "Nabeel Asif",
+      "role": "Web Developer",
+      "socials": {
+        "github": "nabeelcodes",
+        "telegram": "nambeel"
+      }
+    }
+  ]
+}

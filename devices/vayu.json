@@ -1,0 +1,32 @@
+{
+  "maintainer": [
+    {
+      "name": "Raghav",
+      "socials": {
+        "telegram": "raghavt20",
+        "github": "raghavt20",
+        "xda": "raghavt20.11102031"
+      }
+    }
+  ],
+  "active": true,
+  "android_version": 13,
+  "available_versions": [13],
+  "release": "monthly",
+  "device_display_name": "Xiaomi POCO X3 Pro",
+  "device_display_codename": "vayu",
+  "device_telegram_group": "raghav_vayu",
+  "public_download": "https://www.pling.com/p/1422701/",
+  "response": [
+    {
+      "datetime": 1681620434,
+      "size": 2272217341,
+      "filehash": "63eb59c0f82a76d0c836df212b7d406a",
+      "filename": "awaken-3.6-triton_void-vayu-official-0447-20230416.zip",
+      "id": "05d86714fd3a4c589a7ce85e49a0f508a2407b22513ca913285edd846ab087ce",
+      "romtype": "official",
+      "version": "3.6",
+      "url": "https://sourceforge.net/projects/project-awaken/files/vayu/awaken-3.6-triton_void-vayu-official-0447-20230416.zip/download"
+    }
+  ]
+}

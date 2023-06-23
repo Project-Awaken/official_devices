@@ -1,0 +1,21 @@
+name: Validate PR
+on:
+  pull_request:
+    paths:
+      - "devices/**"
+      - "devices.json"
+      - "team.json"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 5
+
+      - name: Validate JSON
+        run: |
+          mapfile -t changed_files < <(git diff --name-only HEAD~1 -- 'devices/*.json')
+          jq -r . "${changed_files[@]}" &>/dev/null

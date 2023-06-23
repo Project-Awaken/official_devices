@@ -1,0 +1,33 @@
+{
+  "maintainer": [
+    {
+      "name": "Krishnakant Shedge",
+      "socials": {
+        "telegram": "KKShedge",
+        "github": "KrishnakantShedge",
+        "xda": "kkshedge.9764305"
+      }
+    }
+  ],
+  "active": false,
+  "android_version": 13,
+  "available_versions": [13],
+  "release": "monthly",
+  "device_display_name": "realme GT Master Edition",
+  "device_display_codename": "lunaa",
+  "device_telegram_group": "kkshedge_builds",
+  "device_xda_thread": "https://forum.xda-developers.com/t/rom-13-official-awakenos-rmx3360.4533089/",
+  "public_download": "https://www.pling.com/p/1422701/",
+  "response": [
+    {
+      "datetime": 1671797781,
+      "size": 1964262745,
+      "filehash": "86aa8005b00d9729c5eb968938dfed7d",
+      "filename": "awaken-3.3-triton-RMX3360-official-1216-20221223.zip",
+      "id": "c269300e0ff264dae307cd814c232b9092cb5ba4fe23b533ce77939e73a2e56b",
+      "romtype": "official",
+      "version": "3.3",
+      "url": "https://sourceforge.net/projects/project-awaken/files/RMX3360/awaken-3.3-triton-RMX3360-official-1216-20221223.zip/download"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "maintainer": [
+    {
+      "name": "Samyak Jain",
+      "socials": {
+        "telegram": "lolGAMER222",
+        "github": "SamyakJain222",
+        "xda": "am-noobmaster69.10160203"
+      }
+    }
+  ],
+  "active": false,
+  "android_version": 13,
+  "available_versions": [13],
+  "release": "monthly",
+  "device_display_name": "Redmi K20 Pro",
+  "device_display_codename": "raphael",
+  "device_telegram_group": "AwakenOSRaphael",
+  "device_xda_thread": "https://forum.xda-developers.com/t/rom-13-official-gapps-awakenos-jan-03-2023.4496901/",
+  "public_download": "https://www.pling.com/p/1422701/",
+  "response": [
+    {
+      "datetime": 1672654534,
+      "size": 1920089340,
+      "filehash": "db9e2eb4d6da3b6d15d76fc05c2c86f3",
+      "filename": "awaken-3.3-triton-raphael-official-1020-20230102.zip",
+      "id": "cd5de1610bf7d7868156cd3ac6ad0fcf64b1d42f87de95c807a2dad197ab3cac",
+      "romtype": "official",
+      "version": "3.3",
+      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/awaken-3.3-triton-raphael-official-1020-20230102.zip/download"
+    }
+  ]
+}

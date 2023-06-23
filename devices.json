@@ -1,0 +1,81 @@
+{
+  "devices": [
+    {
+      "codename": "beryllium",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi Pocophone F1",
+      "maintainer_name": "Ninad Patil",
+      "active": true
+    },
+    {
+      "codename": "cepheus",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi Mi 9",
+      "maintainer_name": "Sven",
+      "active": true
+    },
+    {
+      "codename": "davinci",
+      "vendor": "Redmi",
+      "model": "Redmi K20",
+      "maintainer_name": "Aditya Singh",
+      "active": true
+    },
+    {
+      "codename": "lemonades",
+      "vendor": "OnePlus",
+      "model": "OnePlus 9R",
+      "maintainer_name": "Arnav Puranik",
+      "active": false
+    },
+    {
+      "codename": "lisa",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi 11 Lite 5G NE",
+      "maintainer_name": "Saikiran",
+      "active": true
+    },
+    {
+      "codename": "lunaa",
+      "vendor": "realme",
+      "model": "realme GT Master Edition",
+      "maintainer_name": "Krishnakant Shedge",
+      "active": false
+    },
+    {
+      "codename": "miatoll",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi POCO M2 Pro, Redmi Note 9S/Pro/Pro Max",
+      "maintainer_name": "BladeRunner-A2C",
+      "active": false
+    },
+    {
+      "codename": "nabu",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi Mi Pad 5",
+      "maintainer_name": "Saikiran",
+      "active": true
+    },
+    {
+      "codename": "porsche",
+      "vendor": "realme",
+      "model": "realme GT 2",
+      "maintainer_name": "Aditya Singh",
+      "active": true
+    },
+    {
+      "codename": "raphael",
+      "vendor": "Redmi",
+      "model": "Redmi K20 Pro",
+      "maintainer_name": "Samyak Jain",
+      "active": false
+    },
+    {
+      "codename": "vayu",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi POCO X3 Pro",
+      "maintainer_name": "Raghav",
+      "active": true
+    }
+  ]
+}

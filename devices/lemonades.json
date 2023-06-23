@@ -1,0 +1,33 @@
+{
+  "maintainer": [
+    {
+      "name": "Arnav Puranik",
+      "socials": {
+        "telegram": "arnavpuranik",
+        "github": "arnavpuranik",
+        "xda": "arnavpuranik.11555999"
+      }
+    }
+  ],
+  "active": false,
+  "android_version": 13,
+  "available_versions": [13],
+  "release": "monthly",
+  "device_display_name": "OnePlus 9R",
+  "device_display_codename": "lemonades",
+  "device_telegram_group": "arnavschat",
+  "device_xda_thread": "https://forum.xda-developers.com/t/rom-13-official-awaken-os-kebab-lemonades.4463703/",
+  "public_download": "https://www.pling.com/p/1422701/",
+  "response": [
+    {
+      "datetime": 1668448580,
+      "size": 1844190933,
+      "filehash": "50712e2ad94ae8346c060ba3bd40d213",
+      "filename": "awaken-3.2-triton-lemonades-official-1756-20221114.zip",
+      "id": "bea7149aaaeff312fa79eeba5a07b15826117b060af290b5d7c04f105a5707ba",
+      "romtype": "official",
+      "version": "3.2",
+      "url": "https://sourceforge.net/projects/project-awaken/files/lemonades/awaken-3.2-triton-lemonades-official-1756-20221114.zip/download"
+    }
+  ]
+}

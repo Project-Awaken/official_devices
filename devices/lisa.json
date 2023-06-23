@@ -1,0 +1,33 @@
+{
+  "maintainer": [
+    {
+      "name": "Saikiran",
+      "socials": {
+        "telegram": "Saikiran008",
+        "github": "Saikiran2001",
+        "xda": "saikiran001.8222620"
+      }
+    }
+  ],
+  "active": true,
+  "android_version": 13,
+  "available_versions": [13],
+  "release": "monthly",
+  "device_display_name": "Xiaomi 11 Lite 5G NE",
+  "device_display_codename": "lisa",
+  "device_telegram_group": "AwakenOSLisa",
+  "device_xda_thread": "https://forum.xda-developers.com/t/rom-13-0-official-awaken-os-lisa.4507331/",
+  "public_download": "https://www.pling.com/p/1422701/",
+  "response": [
+    {
+      "datetime": 1683567036,
+      "size": 1956630710,
+      "filehash": "bab12a14795c846f4c46ee317750446f",
+      "filename": "awaken-3.7-triton_void-lisa-official-0340-20230512.zip",
+      "id": "3d8a62dfce9780b348d2269d2cf2145d912598af8d43fe2ea1ccf03e9dc9faad",
+      "romtype": "official",
+      "version": "3.7",
+      "url": "https://sourceforge.net/projects/project-awaken/files/lisa/3.7/12-05-2023/awaken-3.7-triton_void-lisa-official-0340-20230512.zip/download"
+    }
+  ]
+}
