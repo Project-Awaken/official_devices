@@ -16,4 +16,5 @@
 -  [Xiaomi 11 Lite 5G NE (lisa)](/devices/lisa.md)
 
 ## <p align="center"> realme <p/>
+- [realme GT 2 (porsche)](/devices/porsche.md)
 - [realme GT Master Edition (lunaa)](/devices/lunaa.md)
