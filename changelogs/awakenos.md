@@ -1,3 +1,10 @@
+# 19-Aug-2023
+- Bring back features that were missed in new security and privacy UI
+- Fixed an issue where Bluetooth icon didn't hide when disabled from tuner
+- Fixed an issue where LS shortcut was force closing while accessing from lock screen settings
+- Fixed app lock allow biometric toggle being ignored
+- Fixed back gesture haptic toggle was not working
+
 # 08-Jul-2023
 - Added option for users to separate ring & notification sound streams
 - Enabled and tuned split notification shade

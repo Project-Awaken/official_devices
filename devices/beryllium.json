@@ -20,14 +20,14 @@
   "public_download": "https://www.pling.com/p/1422701/",
   "response": [
     {
-      "datetime": 1688821462,
-      "size": 2091226061,
-      "filehash": "05e95a982122ebf1a3d5dadc2309c772",
-      "filename": "awaken-3.8-triton_void-beryllium-official-1305-20230708.zip",
-      "id": "5539bc803e24b07a3187fe9d2b36f5aac226e7037e35951f08c2f2a42777b752",
+      "datetime": 1692433512,
+      "size": 2088892855,
+      "filehash": "d67846ccf3ac4468be69256277e56842",
+      "filename": "awaken-3.9-triton_void-beryllium-official-0826-20230819.zip",
+      "id": "51bab201bc56a38763a41fb6a41d4c74d63f59f9baec25fdc3b6880398a20c50",
       "romtype": "official",
-      "version": "3.8",
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken-3.8-triton_void-beryllium-official-1305-20230708.zip/download"
+      "version": "3.9",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken-3.9-triton_void-beryllium-official-0826-20230819.zip/download"
     }
   ]
 }
