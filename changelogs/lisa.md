@@ -1,3 +1,15 @@
+# 20-Aug-2023
+- Added miui cam prebuilt
+- Fixed SlowMo & Night mode in Miui Camera
+- Fixed 4k 60fps HDR Video Playback 
+- Merged 5.4.254 tag in kernel
+- Merged latest CLO tag LA.UM.9.14.r1-22000-LAHAINA.QSSI12.0 in kernel
+- Added DC Dimming for Tianma Panels (CSOT soon)
+- Adjusted AOD brightness
+- Switched to vendor-defined color modes
+- Idle drain improvements
+- Overall performance improvements
+
 # 11-May-2023
 - Merged 5.4.242 tag in kernel
 - Fixed kernel issue of cpu cores not going to sleep
