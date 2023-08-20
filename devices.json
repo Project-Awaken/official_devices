@@ -71,6 +71,13 @@
       "active": false
     },
     {
+      "codename": "tundra",
+      "vendor": "Motorola",
+      "model": "Motorola Edge 30 Fusion",
+      "maintainer_name": "Raghav",
+      "active": true
+    },
+    {
       "codename": "vayu",
       "vendor": "Xiaomi",
       "model": "Xiaomi POCO X3 Pro",
