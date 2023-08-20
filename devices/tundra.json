@@ -1,0 +1,32 @@
+{
+  "maintainer": [
+    {
+      "name": "raghav",
+      "socials": {
+        "telegram": "raghavt20",
+        "github": "raghavt20",
+        "xda": "raghavt20.11102031"
+      }
+    }
+  ],
+  "active": true,
+  "android_version": 13,
+  "available_versions": [13],
+  "release": "monthly",
+  "device_display_name": "Motorola Edge (30 Fusion/S30 Pro)",
+  "device_display_codename": "tundra",
+  "device_telegram_group": "raghav_tundra",
+  "public_download": "https://www.pling.com/p/1422701/",
+  "response": [
+    {
+      "datetime": 1692517988,
+      "size": 1985072672,
+      "filehash": "3fea16f2f6f0a05b3f68ae6dafefd681",
+      "filename": "awaken-3.9-triton_void-tundra-official-0837-20230820.zip",
+      "id": "e1262f9868b9048e4eae78f6dc0c7f4874a2aa4f0ae86564daf1410efd00429c",
+      "romtype": "official",
+      "version": "3.9",
+      "url": "https://sourceforge.net/projects/project-awaken/files/tundra/3.9/awaken-3.9-triton_void-tundra-official-0837-20230820.zip/download"
+    }
+  ]
+}
