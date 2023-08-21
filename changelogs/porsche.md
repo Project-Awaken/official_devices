@@ -1,3 +1,13 @@
+# 21-Aug-2023
+- Added OplusCamera
+- Switch to Audio HAL 7.1
+- Switch to AIDL BtAudio
+- Switch to OSS Display stack
+- Updated blobs and firmware from RMX3312_11_C.16
+- Disabled unsupported 6ghz tethering band
+- Adjusted AOD brightness
+- General device sources cleanup and improvements
+
 # 01-Aug-2023
 - Fixed USB C Audio
 - Updated blobs from RMX3312_11_C.15
