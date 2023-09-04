@@ -19,14 +19,14 @@
   "public_download": "https://www.pling.com/p/1422701/",
   "response": [
     {
-      "datetime": 1683570882,
-      "size": 1877336462,
-      "filehash": "aae721736289b1f313d501675a47c3b8",
-      "filename": "awaken-3.7-triton_void-nabu-official-1655-20230511.zip",
-      "id": "b604abcbb23bebb98df0522c27fafbed39b2b23794c7f2c3f780dafe32796f30",
+      "datetime": 1693843501,
+      "size": 1901642674,
+      "filehash": "f0e9a8d342d0ed67d7acfa3e84f95755",
+      "filename": "awaken-3.9-triton_void-nabu-official-1605-20230904.zip",
+      "id": "600d5ee7ce8980cebc7582713dc70a5c614190812aecbd57250f5753a715ef8a",
       "romtype": "official",
-      "version": "3.7",
-      "url": "https://sourceforge.net/projects/project-awaken/files/nabu/3.7/awaken-3.7-triton_void-nabu-official-1655-20230511.zip/download"
+      "version": "3.9",
+      "url": "https://sourceforge.net/projects/project-awaken/files/nabu/3.9/awaken-3.9-triton_void-nabu-official-1605-20230904.zip/download"
     }
   ]
 }

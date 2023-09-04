@@ -1,3 +1,28 @@
+# 04-September-2023
+- Spoofing GMS components as Pixel Tab
+- Updated GMS stack from Pixel Tab
+- Implemented HubUI(Screensavers) from Pixel Tab
+- Updated Graphics stack
+- Change foreground cpuset configuration
+- Imported perf stack from latest miui
+- Switched to QTI powerhal
+- Increased Mic gain
+- Tuned zram performance
+- Add the noatime for read-only ext4 partitions
+- Set max AOD refresh rate to 60 to save battery
+- Set max visible notification icons
+- Disabled ART debug and optimize dexpreopt
+- Set correct resolution according to panel
+- Optimized package manager dexopt properties
+- Optimized Dex flags
+- Updated SurfaceFlinger offsets from taro
+- Switched to CAF surfaceflinger
+- Removed  redundant blobs/apps/services that our device won't use
+- Use QCOM implementation for audio effects
+- Enabled surround virtualizer by default for Music profile with headphones
+- Updated vulkan and opengl XML files for dEQP feature flags
+- Lot of Miscellaneous Improvements
+
 # 11-May-2023
 - Fixed screen cast issues 
 - Disabled HDR and WCG mode
