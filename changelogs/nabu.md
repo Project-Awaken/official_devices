@@ -1,3 +1,32 @@
+# 13-September-2023
+- Updated screen density to 300
+- Using 420dpi
+- Added Per app refresh rate settings and improved layout of it
+- Added Refresh rate Quick Settings tile
+- Enabled and Improved HDR & WCG
+- Updated power profile from coral
+- Updated Surface flinger props
+- Massive Cleanup of device sources
+- Added and tuned Moto dolby again
+- Increased max visible notification icons
+- Add perf related script
+- Imported Thermal Client from stock
+- Fixed AOSP recovery
+- Switched to CosmicFresh kernel
+- Upstreamed kernel to 4.14.325
+- Merged latest CLO tag LA.UM.9.1.r1-13900-SMxxx0.QSSI13.0 in kernel
+- Building kernel with latest clang 17.0.4
+- Enabled FUSE passthrough by default
+- Fixed mismatched gaming thermal
+- Tuned artwork
+- Imported Thermal Client from stock
+- Updated Surface flinger props
+- Fixed deepsleep issue
+- Miscellaneous fixes
+- Enabled New QS Panel clock layout (Like in smartphones)
+- Improved QS Panel layout for tablets
+- Fixed QS Panel theme while using light theme in lockscreen
+
 # 04-September-2023
 - Spoofing GMS components as Pixel Tab
 - Updated GMS stack from Pixel Tab
