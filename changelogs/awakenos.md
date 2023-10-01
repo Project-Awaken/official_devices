@@ -1,3 +1,7 @@
+# 01-Oct-2023
+- Fixed corner radius for biometric dialog
+- Misc fixes for bluetooth and wifi timeout
+
 # 19-Aug-2023
 - Bring back features that were missed in new security and privacy UI
 - Fixed an issue where Bluetooth icon didn't hide when disabled from tuner
