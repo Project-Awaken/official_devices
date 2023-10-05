@@ -1,3 +1,12 @@
+# 05-October-2023
+- Added Desktop mode
+- Enable floating windows by default
+- Updated blobs from latest global miui (v14.0.6)
+- Updated gms stack from Pixel Tab September OTA
+- Upstreamed kernel to 4.14.326
+- Tuned zram configuration
+- Enabled zram writeback
+
 # 13-September-2023
 - Updated screen density to 300
 - Using 420dpi
