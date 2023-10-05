@@ -1,3 +1,12 @@
+# 05-October-2023
+- Added Dolby
+- Enabled Secure NFC feature
+- Sync volume tables with stock (the sound output will be as high as RealmeUI now)
+- Enabled OEM fast charger detection
+- Fixed FOD on AoD
+- Updated blobs and firmware from RMX3312_11_C.18
+- General device sources cleanup and improvements
+
 # 21-Aug-2023
 - Added OplusCamera
 - Switch to Audio HAL 7.1
