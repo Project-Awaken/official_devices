@@ -18,14 +18,14 @@
   "public_download": "https://www.pling.com/p/1422701/",
   "response": [
     {
-      "datetime": 1682841493,
-      "size": 2024810016,
-      "filehash": "dbf955c5bd7b43a6cf40cd9f5ee012cd",
-      "filename": "awaken-3.6-triton_void-cepheus-official-0919-20230501.zip",
-      "id": "272e53421fd3fce651e77ae0c9bd4a636d6f35e81c4987d9ff545254c1eeca3f",
+      "datetime": 1697440852,
+      "size": 2094171246,
+      "filehash": "4d54d81f78f65aee07588107613077c5",
+      "filename": "awaken-3.10-triton_void-cepheus-official-1857-20231023.zip",
+      "id": "8c2da0fd103f2fb29097de1487ecad05c6da35b9e30b8ab501a9169e6df38a9a",
       "romtype": "official",
-      "version": "3.6",
-      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/awaken-3.6-triton_void-cepheus-official-0919-20230501.zip/download"
+      "version": "3.10",
+      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/awaken-3.10-triton_void-cepheus-official-1857-20231023.zip/download"
     }
   ]
 }
