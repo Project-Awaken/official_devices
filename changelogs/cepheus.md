@@ -1,3 +1,6 @@
+# 23-Oct-2023
+- LAST A13 update -- EOL
+
 # 01-May-2023
 - Bring back screen off udfps
 - Kernel upstreamed to 4.14.311
