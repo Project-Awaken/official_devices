@@ -2,7 +2,7 @@ name: CI
 on:
   push:
     branches:
-      - "triton"
+      - "ursa"
     paths:
       - "devices/**"
       - "devices.json"

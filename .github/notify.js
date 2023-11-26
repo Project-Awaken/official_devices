@@ -2,7 +2,7 @@ const BOT_API = process.env.BOT_API;
 const CHANNEL_ID = process.env.CHANNEL_ID;
 const API_URL = `https://api.telegram.org/bot${BOT_API}/sendPhoto`;
 const BANNER_URL =
-  "https://raw.githubusercontent.com/AwakenOS-Staging/official_devices/triton/banner/awaken_banner_v3.6.png";
+  "https://raw.githubusercontent.com/Project-Awaken/official_devices/ursa/banner/awaken_banner_v4.0.png";
 
 /* Exit if `BOT_API` or `CHANNEL_ID` is empty */
 if (!BOT_API && !CHANNEL_ID) {
@@ -67,8 +67,8 @@ for (const device of devices_updated) {
     const codename = file_json.device_display_codename;
 
     const post_template = `
-#awakenOS #rom #triton_void
-<b>awakenOS v${version} triton_void - Android ${android_version}</b>
+#awakenOS #rom #ursa
+<b>awakenOS v${version} ursa - Android ${android_version}</b>
 
 <b>• Build Date:</b> ${date}
 <b>• Device:</b> ${device_name} (<i>${codename}</i>)
