@@ -1,7 +1,7 @@
 [IMG]https://i.imgur.com/BIqWutQ.png[/IMG]
 [CENTER][SIZE=5][B][COLOR=#3D8AFF]awakenOS for Device_Name [codename][/COLOR][/B][/SIZE]
 
-[CODE]#include <std_disclaimer.h>
+[QUOTE]#include <std_disclaimer.h>
 /*
 * Your warranty is void. Or...Valid? Probably?
 *
@@ -9,7 +9,7 @@
 * dead SD cards, data loss, thermonuclear war, or economic crisis caused by
 * Awaken OS. YOU are choosing to make these modifications, and if you
 * point your finger at me for messing up your device, I will laugh at you.
-*/[/CODE]
+*/[/QUOTE]
 
 [IMG]https://i.imgur.com/3iH8AJV.png[/IMG]
 [SIZE=5][COLOR=#3D8AFF][B]Born different, now awaken.[/B][/COLOR][/SIZE]
@@ -18,10 +18,10 @@
 [B][B][COLOR=#3D8AFF]- Project Awaken Team - [/COLOR][/B]
 [URL='https://github.com/saikiran2001'][COLOR=#FFFFFF]Saikiran[/URL] [Founder & Lead Developer][/COLOR]
 [URL='https://github.com/PainKiller3'][COLOR=#FFFFFF]Ninad Patil[/URL] [Lead Developer][/COLOR]
-[URL='https://github.com/mukul2259'][COLOR=#FFFFFF]Mukul[/URL] [Developer][/COLOR]
 [URL='https://github.com/hugwalk'][COLOR=#FFFFFF]Hugwalk[/URL] [Lead Designer][/COLOR]
 [URL='https://github.com/Graphix-Designer'][COLOR=#FFFFFF]Jagadish[/URL] [Designer][/COLOR]
-[URL='https://github.com/humanglitch191'][COLOR=#FFFFFF]Glitch[/URL] [Designer][/COLOR]
+[URL='https://github.com/schardev'][COLOR=#FFFFFF]Saurabh Charde[/URL] [Web Developer][/COLOR]
+[URL='https://github.com/nabeelcodes'][COLOR=#FFFFFF]Nabeel Asif[/URL] [Web Developer][/COLOR]
 
 [I]Find us on Telegram! [URL='https://t.me/AwakenOSNews']@AwakenOSNews[/URL][/I][/B]
 
@@ -37,20 +37,19 @@ Three finger screenshot
 Toggle torch when screen off[/B]
 
 [B][SIZE=5][U][I][COLOR=#3D8AFF][B]Lockscreen[/B][/COLOR][/I][/U][/SIZE]
-[/B]
+Soon[/B]
 
 [B][SIZE=5][U][I][COLOR=#3D8AFF][B]Notification[/B][/COLOR][/I][/U][/SIZE]
-[/B]
+Soon[/B]
 
 [B][SIZE=5][U][I][COLOR=#3D8AFF][B]Pixel Features[/B][/COLOR][/I][/U][/SIZE]
 Smartspace[/B]
 
 [B][SIZE=5][U][I][COLOR=#3D8AFF][B]Quick Settings[/B][/COLOR][/I][/U][/SIZE]
-Brightness slider customizations
-[/B]
+Brightness slider customizations[/B]
 
 [B][SIZE=5][U][I][COLOR=#3D8AFF][B]Security[/B][/COLOR][/I][/U][/SIZE]
-[/B]
+Soon[/B]
 
 [B][SIZE=5][U][I][COLOR=#3D8AFF][B]Sounds[/B][/COLOR][/I][/U][/SIZE]
 Cycle through ringer modes
@@ -59,8 +58,7 @@ In-call vibration
 Link ring and notification volumes[/B]
 
 [B][SIZE=5][U][I][COLOR=#3D8AFF][B]Statusbar[/B][/COLOR][/I][/U][/SIZE]
-4G instead of LTE
-Small mobile type icon[/B]
+Soon[/B]
 
 [IMG]https://i.imgur.com/1XvkK8J.png[/IMG]
 [B]You tell[/B]
@@ -84,5 +82,5 @@ Small mobile type icon[/B]
 
 [URL='https://sourceforge.net/projects/project-awaken/files/devicename/'][IMG]https://i.imgur.com/gFGfMNo.png[/IMG][/URL]
 
-[SIZE=1][B][URL='https://sourceforge.net/projects/project-awaken/files/devicename/']Download Here[/URL] / [URL='https://t.me/AwakenOSNews']Official Announcement[/URL] / [URL='https://t.me/AwakenOSChat']Official Community[/URL][/B][/SIZE]
+[SIZE=1][B][URL='https://awakenos.vercel.app/downloads/devicename/']Download Here[/URL] / [URL='https://t.me/AwakenOSNews']Official Announcement[/URL] / [URL='https://t.me/AwakenOSChat']Official Community[/URL][/B][/SIZE]
 [SIZE=1][B][URL='https://github.com/']Kernel Source[/URL] / [URL='https://github.com/Project-Awaken/android_manifest']Source Code[/URL][/B][/SIZE][/CENTER]
