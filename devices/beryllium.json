@@ -10,24 +10,24 @@
     }
   ],
   "active": true,
-  "android_version": 13,
-  "available_versions": [13],
+  "android_version": 14,
+  "available_versions": [13,14],
   "release": "monthly",
   "device_display_name": "Xiaomi Pocophone F1",
   "device_display_codename": "beryllium",
   "device_telegram_group": "AwakenOSBeryllium",
-  "device_xda_thread": "https://forum.xda-developers.com/t/rom-13-official-awakenos-beryllium.4495043/",
+  "device_xda_thread": "https://xdaforums.com/t/rom-14-official-awakenos-beryllium.4643139/",
   "public_download": "https://www.pling.com/p/1422701/",
   "response": [
     {
-      "datetime": 1696137097,
-      "size": 2097189958,
-      "filehash": "5ea949a5cbae26508a21fbcbf9216ba5",
-      "filename": "awaken-3.10-triton_void-beryllium-official-0517-20231001.zip",
-      "id": "64b350b18bc310c7eaeaadbbd9d77d07de19dd6afa8e0dc40b0d90a6281e585e",
+      "datetime": 1701066739,
+      "size": 1908517640,
+      "filehash": "0c1447a0be6dda3f88cb06b172bb495e",
+      "filename": "awaken-4.0-ursa-beryllium-official-0635-20231127.zip",
+      "id": "5aef262d7bfe7c1abd8bb9a13baf1e0eff9764ea899c2e6e9b087d025a0b20f0",
       "romtype": "official",
-      "version": "3.10",
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken-3.10-triton_void-beryllium-official-0517-20231001.zip/download"
+      "version": "4.0",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken-4.0-ursa-beryllium-official-0635-20231127.zip/download"
     }
   ]
 }
