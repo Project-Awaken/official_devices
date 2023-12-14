@@ -71,6 +71,14 @@
       "active": false
     },
     {
+      "codename": "sweet",
+      "codename_alt": "sweetin",
+      "vendor": "Redmi",
+      "model": "Redmi Note 10 Pro/Pro Max",
+      "maintainer_name": "Zohaib",
+      "active": true
+    },
+    {
       "codename": "tundra",
       "vendor": "Motorola",
       "model": "Motorola Edge 30 Fusion",
