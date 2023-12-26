@@ -1,3 +1,6 @@
+# 26-December-2023
+- Initial Android 14 build
+
 # 05-October-2023
 - Added Dolby
 - Enabled Secure NFC feature
