@@ -1,17 +1,25 @@
 {
   "maintainer": [
     {
-      "name": "Aditya Singh",
+      "name": "Aditya",
       "socials": {
         "telegram": "Ad1tyaS1ngh",
         "github": "Ad1tyaS1ngh",
         "xda": "ad1tyas1ngh.11053817"
       }
+    },
+    {
+      "name": "Sushmit",
+      "socials": {
+        "telegram": "redducc",
+        "github": "redducc",
+        "xda": "redducc.11452247"
+      }
     }
   ],
   "active": true,
-  "android_version": 13,
-  "available_versions": [13],
+  "android_version": 14,
+  "available_versions": [13,14],
   "release": "monthly",
   "device_display_name": "realme GT 2",
   "device_display_codename": "porsche",
