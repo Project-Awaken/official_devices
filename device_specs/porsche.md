@@ -24,6 +24,6 @@ Dimensions	| 162.9 mm (6.41 in) (h) <br /> 75.8 mm (2.98 in) (w) <br /> 8.6 mm (
 Battery		| Non-removable Li-Po 5000 mAh
 
 ## <p align="center"> AwakenOS info </p>
-* **Maintainer:**	  [Aditya](https://github.com/Ad1tyaS1ngh)
-* **Supported versions:** Android 13
+* **Maintainers:**	  [Aditya](https://github.com/Ad1tyaS1ngh) | [Sushmit](https://github.com/redducc)
+* **Supported versions:** Android 14
 * [Downloads](https://sourceforge.net/projects/project-awaken/files/porsche/)
