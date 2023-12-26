@@ -27,14 +27,14 @@
   "public_download": "https://www.pling.com/p/1422701/",
   "response": [
     {
-      "datetime": 1696515978,
-      "size": 2602530419,
-      "filehash": "63367b9d594c623a326aab1caf6f514f",
-      "filename": "awaken-3.10-triton_void-porsche-official-1426-20231005.zip",
-      "id": "84cea326c1b826e7434066264d6fc3a116e1567614a283847f93a2e719f60cbd",
+      "datetime": 1703188270,
+      "size": 1964105840,
+      "filehash": "279fa3fe5ca5fec435a5960f5cec551e",
+      "filename": "awaken-4.1-ursa-porsche-official-0716-20231226.zip",
+      "id": "6d8272bf03017a939b87dff4f2b609e14fc0884ff762662afd2f83f9de8d0206",
       "romtype": "official",
-      "version": "3.10",
-      "url": "https://sourceforge.net/projects/project-awaken/files/porsche/awaken-3.10-triton_void-porsche-official-1426-20231005.zip/download"
+      "version": "4.1",
+      "url": "https://sourceforge.net/projects/project-awaken/files/porsche/awaken-4.1-ursa-porsche-official-0716-20231226.zip/download"
     }
   ]
 }
