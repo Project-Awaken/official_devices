@@ -1,3 +1,17 @@
+# 06-Jan-2024
+- Allow users to customize default notification vibration pattern
+- Allow users to disable private dns for vpn
+- Bring back applock & dual tone qs
+- Bring back lockscreen charging info
+- Fixed an issue where power menu doesn't hide on lockscreen
+- Fixed some NPE
+- Introduced increased touch sensitivity (glove mode) & high touch polling rate feature control
+- Introduced haptic feedback to tiles & bluetooth dialog
+- Introduced hotspot toggle in QS internet dialog
+- Reintroducing adaptive playback & automated DC Dimming
+- Reintroducing Bluetooth & WIFI timeout feature
+- Reintroducing network traffic indicator
+
 # 14-Dec-2023
 - Added metro clock
 - Added status bar clock customization

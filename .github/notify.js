@@ -73,11 +73,6 @@ for (const device of devices_updated) {
 <b>• Build Date:</b> ${date}
 <b>• Device:</b> ${device_name} (<i>${codename}</i>)
 <b>• Maintainer:</b> ${maintainers.join(" | ")}
-
-If you like the project, then you can support us by donating
-
-<b>PayPal:</b> https://paypal.me/Beastmaster007
-<b>UPI:</b> <code>bjsaikiran1@ybl</code>
 `;
 
     const res_body = {
