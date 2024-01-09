@@ -5,7 +5,7 @@
       "socials": {
         "telegram": "lemezohaib",
         "github": "lemezohaib",
-        "xda": "zohaibkhan143"
+        "xda": "zohaibkhan143.6228226"
       }
     }
   ],
@@ -16,17 +16,18 @@
   "device_display_name": "Redmi Note 10 Pro/Pro Max",
   "device_display_codename": "sweet",
   "device_telegram_group": "lemezohaibdesk",
+  "device_xda_thread": "https://xdaforums.com/t/rom-official-14-0-awakenos-v4-1-redmi-note-10-pro-pro-max-14-12-23.4646117/",
   "public_download": "https://www.pling.com/p/1422701/",
   "response": [
     {
-      "datetime": 1702578406,
-      "size": 2288534210,
-      "filehash": "f10eda92e4ef945542331fd347070a42",
-      "filename": "awaken-4.1-ursa-sweet-official-1828-20231214.zip",
-      "id": "fe0bc852b06ad615803c07d6f7ebc1c7bb7acb0dcb3fdd4ba102c06b70a39f77",
+      "datetime": 1704805524,
+      "size": 2088005382,
+      "filehash": "adac963ca2253d3d2fd7571f85ca65b3",
+      "filename": "awaken-4.2-ursa-sweet-official-1404-20240109.zip",
+      "id": "e4f2188f509b3bcad488d971e7e165f876d6d758defea8950e1c64f8072209b2",
       "romtype": "official",
-      "version": "4.1",
-      "url": "https://sourceforge.net/projects/project-awaken/files/sweet/awaken-4.1-ursa-sweet-official-1828-20231214.zip/download"
+      "version": "4.2",
+      "url": "https://sourceforge.net/projects/project-awaken/files/sweet/awaken-4.2-ursa-sweet-official-1404-20240109.zip/download"
     }
   ]
 }
