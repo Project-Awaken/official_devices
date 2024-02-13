@@ -1,3 +1,10 @@
+# 13-Feb-2024
+- Allow users to change face unlock method when locked
+- Allow users to hide ADB and developer setting enable status
+- Bring back horizon light
+- Fixed clone app issue
+- Reintroducing expanded volume dialog
+
 # 06-Jan-2024
 - Allow users to customize default notification vibration pattern
 - Allow users to disable private dns for vpn
