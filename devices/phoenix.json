@@ -1,0 +1,31 @@
+{
+  "maintainer": [
+    {
+      "name": "Nikhil",
+      "socials": {
+        "telegram": "Naruto242",
+        "github": "Naruto-242"
+      }
+    }
+  ],
+  "active": true,
+  "android_version": 14,
+  "available_versions": [14],
+  "release": "monthly",
+  "device_display_name": "Xiaomi Redmi K30 / POCO X2",
+  "device_display_codename": "phoenix",
+  "device_telegram_group": "narutophoenixroms",
+  "public_download": "https://www.pling.com/p/1422701/",
+  "response": [
+    {
+      "datetime": 1708156059,
+      "size": 1909953705,
+      "filehash": "0e7614651c01fdafd25a13daafd77692",
+      "filename": "awaken-4.3-ursa-phoenix-official-0755-20240217.zip",
+      "id": "67f8b7335f86c16870f5e346ddf0740b78ff3a0446089bb63ae65f553d3a8c79",
+      "romtype": "official",
+      "version": "4.3",
+      "url": "https://sourceforge.net/projects/project-awaken/files/phoenix/awaken-4.3-ursa-phoenix-official-0755-20240217.zip/download"
+    }
+  ]
+}

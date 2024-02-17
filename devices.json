@@ -57,6 +57,14 @@
       "active": true
     },
     {
+      "codename": "phoenix",
+      "codename_alt": "phoenixin",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi Redmi K30/Poco X2",
+      "maintainer_name": "Nikhil",
+      "active": true
+    },
+    {
       "codename": "porsche",
       "vendor": "realme",
       "model": "realme GT 2",
