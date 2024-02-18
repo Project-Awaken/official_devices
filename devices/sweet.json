@@ -20,14 +20,14 @@
   "public_download": "https://www.pling.com/p/1422701/",
   "response": [
     {
-      "datetime": 1704805524,
-      "size": 2088005382,
-      "filehash": "adac963ca2253d3d2fd7571f85ca65b3",
-      "filename": "awaken-4.2-ursa-sweet-official-1404-20240109.zip",
-      "id": "e4f2188f509b3bcad488d971e7e165f876d6d758defea8950e1c64f8072209b2",
+      "datetime": 1708243413,
+      "size": 2107691078,
+      "filehash": "402c9faa691b0883d8d28fe59c1ebec9",
+      "filename": "awaken-4.3-ursa-sweet-official-1120-20240218.zip",
+      "id": "d10a1b311c83bd18638b443db2fcd3e7ee10ba3c2ef53dbb90e53f3942bfbd79",
       "romtype": "official",
-      "version": "4.2",
-      "url": "https://sourceforge.net/projects/project-awaken/files/sweet/awaken-4.2-ursa-sweet-official-1404-20240109.zip/download"
+      "version": "4.3",
+      "url": "https://sourceforge.net/projects/project-awaken/files/sweet/awaken-4.3-ursa-sweet-official-1120-20240218.zip/download"
     }
   ]
 }
