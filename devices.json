@@ -46,8 +46,8 @@
       "codename": "miatoll",
       "vendor": "Xiaomi",
       "model": "Xiaomi POCO M2 Pro, Redmi Note 9S/Pro/Pro Max",
-      "maintainer_name": "BladeRunner-A2C",
-      "active": false
+      "maintainer_name": "PaperBoy",
+      "active": true
     },
     {
       "codename": "nabu",

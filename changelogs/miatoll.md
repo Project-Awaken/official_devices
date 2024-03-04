@@ -1,3 +1,6 @@
+# 04-Mar-2023
+- Initial Android 14 official release
+
 # 09-Feb-2023
 - Faster auto-brightness ramp up
 - Updated kernel to latest CLO tag

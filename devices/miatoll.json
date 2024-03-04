@@ -1,32 +1,32 @@
 {
   "maintainer": [
     {
-      "name": "BladeRunner-A2C",
+      "name": "PaperBoy",
       "socials": {
-        "telegram": "dreadnoughtOO7",
-        "github": "BladeRunner-A2C",
-        "xda": "bladerunnera2c.9156096"
+        "telegram": "paperboy22",
+        "github": "sajidshahriar72543",
+        "xda": "sazidshahriar39"
       }
     }
   ],
-  "active": false,
-  "android_version": 13,
-  "available_versions": [13],
+  "active": true,
+  "android_version": 14,
+  "available_versions": [14],
   "release": "monthly",
   "device_display_name": "Xiaomi POCO M2 Pro, Redmi Note 9S/Pro/Pro Max",
   "device_display_codename": "miatoll",
-  "device_telegram_group": "HornyExpress",
+  "device_telegram_group": "AwakenOSMiatoll",
   "public_download": "https://www.pling.com/p/1422701/",
   "response": [
     {
-      "datetime": 1675927595,
-      "size": 1987659332,
-      "filehash": "00063c0c1ca72973421a7c9487149851",
-      "filename": "awaken-3.5-triton-miatoll-official-0729-20230209.zip",
-      "id": "3fac2ac605e87a4212d01661a4fdaa0572b98f63547ddb5bf1245b6e3e53e3ff",
+      "datetime": 1709543512,
+      "size": 1950788058,
+      "filehash": "3f9a5c94f6750a94d2a4b661a003dafc",
+      "filename": "awaken-4.3-ursa-miatoll-official-0911-20240304.zip",
+      "id": "bdeca1994a142b568289880759ea83456b10982caa56de0fa600202dc579da35",
       "romtype": "official",
-      "version": "3.5",
-      "url": "https://sourceforge.net/projects/project-awaken/files/miatoll/awaken-3.5-triton-miatoll-official-0729-20230209.zip/download"
+      "version": "4.3",
+      "url": "https://sourceforge.net/projects/project-awaken/files/miatoll/awaken-4.3-ursa-miatoll-official-0911-20240304.zip/download"
     }
   ]
 }
