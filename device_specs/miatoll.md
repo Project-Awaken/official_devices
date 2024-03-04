@@ -28,6 +28,6 @@ Dimensions	| 165.7 mm (6.52 in) (h) <br /> 76.6 mm (3.02 in) (w) <br />  8.8 mm 
 Battery		| Non-removable Li-Po 5020 mAh
 
 ## <p align="center"> AwakenOS info </p>
-* **Maintainer:**	  [James Bond](https://github.com/BladeRunner-A2C)
+* **Maintainer:**	  [PaperBoy](https://github.com/sajidshahriar72543)
 * **Supported versions:** Android 13
 * [Downloads](https://sourceforge.net/projects/project-awaken/files/miatoll/)
